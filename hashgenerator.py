@@ -29,6 +29,5 @@ def encrypt_word(string):
 word = 'arvid'   
 encrypt_word(word)
 
-raise SystemExit()
 
 

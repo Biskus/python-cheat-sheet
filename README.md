@@ -1,2 +1,4 @@
 # python-cheat-sheet
-cheat sheet for various command sin python
+cheat sheet for various python-stuff one should remember
+
+enjoy
