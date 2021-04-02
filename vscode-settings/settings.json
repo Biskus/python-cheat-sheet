@@ -1,0 +1,16 @@
+//Custom settings
+    "editor.mouseWheelZoom": true,
+    "workbench.activityBar.visible": true,
+    "workbench.editor.showTabs": true,
+    "workbench.sideBar.location": "right",
+    "workbench.statusBar.visible": false,
+    "editor.minimap.enabled": true,
+    "zenMode.centerLayout": true, //ctrl+shift+p -> zenmode
+    "files.watcherExclude": {
+        "**/.git/objects/**": true,
+        "**/.git/subtree-cache/**": true,
+        "**/node_modules/*/**": true,
+        "**/.hg/store/**": true
+    },
+    "editor.snippetSuggestions": "none",
+    "editor.acceptSuggestionOnEnter": "on",
