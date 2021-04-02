@@ -1,0 +1,9 @@
+Help on built-in function sleep in time:
+
+time.sleep = sleep(...)
+    sleep(seconds)
+    
+    Delay execution for a given number of seconds.  The argument may be
+    a floating point number for subsecond precision.
+
+None

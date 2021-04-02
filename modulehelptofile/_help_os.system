@@ -1,0 +1,6 @@
+Help on built-in function system in os:
+
+os.system = system(command)
+    Execute the command in a subshell.
+
+None

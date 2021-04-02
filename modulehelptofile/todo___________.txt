@@ -1,0 +1,7 @@
+#https://stackoverflow.com/questions/48024209/subshell-in-python-subprocess
+"""
+import psutil
+processes = [p for p in psutil.pids() if 'httpd' in psutil.Process(p).name()]
+for process in processes:
+    os.kill(...)
+"""

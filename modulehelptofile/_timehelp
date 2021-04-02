@@ -1,0 +1,9 @@
+Help on built-in function time in time:
+
+time.time = time(...)
+    time() -> floating point number
+    
+    Return the current time in seconds since the Epoch.
+    Fractions of a second may be present if the system clock provides them.
+
+'None'
